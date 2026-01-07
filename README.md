@@ -10,6 +10,8 @@ This project analyzes customer churn data from the telecom domain to identify wh
 ## Dashboard Preview
 ![Customer_Churn_Analysis](Dashboard.png)
 
+---
+
 ## Objective
 The main goal of this project is to measure customer churn, identify high-risk customer segments, and quantify revenue loss. The dashboard helps stakeholders understand churn patterns and make data-driven retention decisions.
 
