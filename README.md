@@ -1,5 +1,5 @@
 # Customer_Churn_Analysis
-***
+---
 # Project Overview
 This project analyzes customer churn data from the telecom domain to identify why customers leave and how churn impacts business revenue. The analysis is performed entirely using Microsoft Excel and focuses on transforming raw data into meaningful insights through structured analysis and visualization.
 ---
@@ -21,3 +21,4 @@ Churn is highest among early-tenure, high-charge, month-to-month customers, part
 ---
 # Tools Used
 Microsoft Excel, PivotTables, Excel formulas, Slicers, Dashboard Design
+---
